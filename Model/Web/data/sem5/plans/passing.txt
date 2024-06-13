@@ -1,0 +1,35 @@
+Day 1: Computer Networks
+Review OSI model and TCP/IP protocol suite.
+Study basic network security principles.
+Solve practice questions related to network protocols and security.
+
+Day 2: Web Computing
+Learn HTML basics and CSS fundamentals.
+Understand client-server architecture and basic web development concepts.
+Review common web security threats and preventive measures.
+
+Day 3: Machine Learning Algorithms
+Revise supervised learning algorithms (e.g., regression, classification).
+Understand decision trees and basic neural networks.
+Solve practice problems on basic machine learning concepts.
+
+Day 4: Data Warehousing and Mining
+Learn basics of data warehousing and ETL process.
+Understand basic data mining techniques (e.g., association rule mining).
+Review basic concepts of big data technologies (e.g., Hadoop, Spark).
+
+Day 5: Statistics for AI and Data Science
+Refresh knowledge on descriptive statistics and probability distributions.
+Review hypothesis testing and regression analysis basics.
+Solve practice problems on basic statistics concepts.
+
+Exam Day:
+Review key concepts and formulas in the morning.
+Stay calm and focused during the exam.
+Manage your time effectively and attempt all questions.
+
+General Tips:
+Prioritize topics based on your strengths and weaknesses.
+Use concise study materials such as summaries and cheat sheets.
+Practice solving sample questions or past papers under timed conditions.
+Take short breaks to rest and recharge your mind.

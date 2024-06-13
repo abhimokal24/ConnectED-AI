@@ -1,0 +1,30 @@
+Computer Network:
+
+OSI Model
+TCP/IP Protocol Suite
+Routing and Switching
+Network Security
+Web Computing:
+
+HTML, CSS, JavaScript
+Client-Server Architecture
+HTTP Protocol
+Web Development Frameworks (e.g., Django, Flask)
+Artificial Intelligence:
+
+Machine Learning Algorithms
+Neural Networks
+Natural Language Processing
+Computer Vision
+Data Warehouse and Mining:
+
+Data Warehousing Concepts
+ETL (Extract, Transform, Load) Processes
+Data Mining Techniques
+OLAP (Online Analytical Processing)
+Statistics for AI and Data Science:
+
+Probability Distributions
+Hypothesis Testing
+Regression Analysis
+Bayesian Inference

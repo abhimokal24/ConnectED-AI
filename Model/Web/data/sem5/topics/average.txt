@@ -1,0 +1,42 @@
+
+1. **Computer Networks**:
+   - OSI Model layers and their functions
+   - TCP/IP Protocol Suite
+   - Network security principles (e.g., encryption methods, firewalls)
+   - Routing protocols and algorithms
+   - Basics of wireless networks
+   - Network troubleshooting techniques
+
+2. **Web Computing**:
+   - HTML, CSS, and JavaScript basics
+   - Client-server architecture
+   - RESTful APIs and their usage
+   - Basics of web frameworks (e.g., Django, Flask)
+   - Web security concepts (e.g., XSS, CSRF)
+   - Responsive web design principles
+
+3. **Machine Learning Algorithms**:
+   - Supervised learning algorithms (e.g., regression, classification)
+   - Decision trees and their applications
+   - Support Vector Machines (SVM)
+   - Basics of neural networks
+   - Clustering algorithms (e.g., K-Means)
+   - Model evaluation techniques (e.g., cross-validation)
+
+4. **Data Warehousing and Mining**:
+   - Basics of data warehousing concepts
+   - ETL (Extract, Transform, Load) process
+   - Data mining techniques (e.g., association rule mining)
+   - OLAP (Online Analytical Processing)
+   - Data cleansing and preprocessing methods
+   - Introduction to big data technologies (e.g., Hadoop, Spark)
+
+5. **Statistics for AI and Data Science**:
+   - Descriptive statistics (e.g., mean, median, mode)
+   - Probability distributions (e.g., Normal, Binomial)
+   - Hypothesis testing (e.g., t-test, chi-square test)
+   - Regression analysis basics
+   - Bayesian statistics fundamentals
+   - Time series analysis concepts
+
+Focusing on these topics should enable the student to grasp the essential concepts and score average marks in the exam.

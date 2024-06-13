@@ -1,0 +1,36 @@
+Data Analytics and Visualization:
+
+Data Cleaning and Preprocessing
+Exploratory Data Analysis (EDA)
+Data Visualization Techniques
+Dashboard Design and Development
+Cryptography and Cyber Security:
+
+Encryption and Decryption Techniques
+Cryptographic Protocols (e.g., SSL/TLS)
+Public Key Infrastructure (PKI)
+Network Security Protocols (e.g., IPSec)
+Software Engineering and Project Management:
+
+Software Development Life Cycle (SDLC)
+Agile Methodologies (e.g., Scrum, Kanban)
+Requirements Engineering
+Project Planning and Resource Management
+Machine Learning:
+
+Supervised Learning Algorithms (e.g., Regression, Classification)
+Unsupervised Learning Algorithms (e.g., Clustering, Dimensionality Reduction)
+Model Evaluation and Validation
+Feature Engineering and Selection
+Distributed Computing:
+
+Distributed Systems Architecture
+Message Passing and Remote Procedure Call (RPC)
+Distributed File Systems (e.g., Hadoop Distributed File System)
+Scalability and Fault Tolerance
+Image and Video Processing:
+
+Image Filtering and Enhancement
+Object Detection and Recognition
+Image Segmentation
+Video Compression Algorithms

@@ -1,0 +1,4 @@
+streamlit run "E:/The ConnecEd-AI Project/Model/Pre Processing/data/student/main.py"
+streamlit run "E:/The ConnecEd-AI Project/Model/data/career/career.py"
+
+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
